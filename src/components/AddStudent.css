@@ -1,0 +1,562 @@
+.Frame31{
+    /* Frame 31 */
+    position: relative;
+    width: 1331px;
+    height: 864px;
+
+    background: #FFFCFB;
+}
+
+.change{
+    color: black;
+    text-decoration: None;
+}
+
+.Frame35{
+    /* Frame 35 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 0px 8px;
+    gap: 8px;
+
+    position: absolute;
+    width: 248px;
+    height: 160px;
+    left: 0px;
+    top: 177px;
+}
+
+.Frame28{
+    /* Frame 28 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 24px;
+    gap: 16px;
+
+    display: none;
+    width: 240px;
+    height: 48px;
+
+    background: #FFFCFB;
+    border-radius: 5px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Frame28{
+    /* Frame 28 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 12px 24px;
+    gap: 16px;
+
+    display: none;
+    width: 240px;
+    height: 48px;
+
+    background: #FFFCFB;
+    border-radius: 5px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.template1{
+    /* template 1 */
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Dashboard{
+    /* Dashboard */
+    width: 79px;
+    height: 21px;
+
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.7);
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+#root > div > div > div > div > div.col-3 > div > div > svg{
+    left: 0px;
+}
+
+.buttonstyle{
+    /* Dashboard */
+    width: 79px;
+    height: 21px;
+
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    /* color: rgba(0, 0, 0, 0.7); */
+    color: black;
+    text-decoration: none;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Frame53{
+    /* Frame 53 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+
+    position: absolute;
+    width: 1150px;
+    height: 405.5px;
+    left: 248px;
+    top: 135px;
+}
+
+.Frame39{
+    /* Frame 39 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 16px;
+    gap: 739px;
+
+    width: 1032px;
+    height: 21px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Addstudentdiv{
+    /* Add Student */
+
+
+width: 93px;
+height: 21px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.Date{
+    /* 25 Jul 2022 16:10 */
+
+
+width: 141px;
+height: 18px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: right;
+
+color: #000000;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.Frame183{
+    /* Frame 183 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+
+
+    width: 1000px;
+    height: 263px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Frame184{
+    /* Frame 184 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    width: 1000px;
+    height: 112px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Frame74{
+    /* Frame 74 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 1000px;
+    height: 48px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Frame68{
+    /* Frame 68 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px 16px;
+    gap: 20px;
+
+    width: 322.67px;
+    height: 48px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 1;
+}
+
+.Frame68Change{
+    width: 500px;
+    height: 48px;
+}
+
+.Changeaddress{
+    /* border: None; */
+    width: 1000px;
+    height: 48px;
+    
+    text-align: left;
+    border: None !important;
+    align-items: center;
+    border-radius: 20px;
+    /* background-color: greenyellow; */
+    /* border-color: greenyellow; */
+}
+
+.Frame69{
+    /* Frame 69 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px 10px;
+    gap: 16px;
+
+    width: 322.67px;
+    height: 48px;
+
+    background: #FFFFFF;
+    /* background: greenyellow; */
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+}
+
+.Frame70{
+    /* Frame 70 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px 10px;
+    gap: 16px;
+
+    width: 322.67px;
+    height: 48px;
+
+    background: #FFFFFF;
+    /* background: greenyellow; */
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 1;
+}
+
+.Frame180{
+    /* Frame 180 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    width: 1000px;
+    height: 48px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Frame185{
+    /* Frame 185 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    width: 1000px;
+    height: 151.5px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Frame181{
+    /* Frame 181 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    
+    width: 1000px;
+    height: 48px;
+    margin-top: 39px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Frame182{
+    /* Frame 182 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 1000px;
+    height: 48px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.Frame177{
+    /* Frame 177 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px 0px 16px;
+    gap: 16px;
+
+    width: 322.7px;
+    height: 48px;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.Frame174{
+    /* Frame 174 */
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    width: 322.67px;
+    height: 48px;
+
+    background: #FF2108;
+    border-radius: 20px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.Text{
+    /* Add Student */
+    width: -13px;
+    top: 155px;
+    height: 48px;
+
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.addbuttonstyle{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    width: 322.67px;
+    height: 48px;
+
+    border-radius: 20px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    border: None;
+
+    color: white;
+    background: #FF2108;
+}

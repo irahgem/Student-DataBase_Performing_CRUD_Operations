@@ -1,0 +1,165 @@
+.Loginpage{
+    /* Login */
+
+    position: absolute;
+    width: 39px;
+    height: 14px;
+    top: 75px;
+    left: 750px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 14px;
+    text-align: center;
+
+
+    /* Dark Grey */
+
+    color: #333333;
+}
+
+.Email{
+    position: absolute;
+    width: 73px;
+    height: 14px;
+    left: 629px;
+    top: 142px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 14px;
+
+    /* Dark Grey */
+
+    color: #333333;
+}
+
+.LoginFrame92{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 16px 16px;
+    gap: 4px;
+
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    left: 643px;
+    top: 172px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+    display: flex;
+    align-items: center;
+
+    /* Dark Grey */
+
+    color: #333333;
+
+    opacity: 0.8;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    /* Smoke Grey */
+
+    background: #F4F4F4;
+    border-radius: 8px;
+    border: None;
+}
+
+.Password{
+    /* Password */
+
+    position: absolute;
+    width: 69px;
+    height: 14px;
+    left: 643px;
+    top: 252px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 14px;
+
+    /* Dark Grey */
+
+    color: #333333;
+}
+
+.LoginFrame94{
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px 16px 16px;
+    gap: 4px;
+
+    position: absolute;
+    width: 350px;
+    height: 50px;
+    left: 643px;
+    top: 280px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+    display: flex;
+    align-items: center;
+
+    /* Dark Grey */
+
+    color: #333333;
+
+    opacity: 0.8;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    /* Smoke Grey */
+
+    background: #F4F4F4;
+    border-radius: 8px;
+    border: None;
+}
+
+.Loginin{
+    position: absolute;
+    height: 56px;
+    width: 328px;
+    left: 655px;
+    right: 0px;
+    top: 370px;
+
+    /* Blue 1 */
+
+    background: #2F80ED;
+    /* Drop Shadow 1 */
+    border: None;
+    color: white;
+
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;
+}

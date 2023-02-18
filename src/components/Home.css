@@ -1,0 +1,106 @@
+.home{
+    background: #F5F5F5;
+}
+
+.student{
+    position: absolute;
+    width: 972px;
+    height: 172px;
+    left: 367px;
+    top: 231px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 84px;
+    line-height: 86px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.Login{
+    /* Login */
+
+    position: absolute;
+    width: 39px;
+    height: 14px;
+    left: calc(50% - 39px/2 + 0.5px);
+    top: calc(50% - 14px/2);
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+
+    /* White */
+
+    color: #FFFFFF;
+}
+
+.LoginButton{
+    position: absolute;
+    height: 56px;
+    width: 328px;
+    left: -310px;
+    right: 0px;
+    top: 10px;
+
+    /* Blue 1 */
+
+    background: #2F80ED;
+    /* Drop Shadow 1 */
+    border: None;
+    color: white;
+
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;
+}
+
+.Register{
+    /* Register */
+
+    position: absolute;
+    width: 61px;
+    height: 14px;
+    left: calc(50% - 61px/2 + 0.5px);
+    top: calc(50% - 14px/2);
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+
+    /* White */
+
+    color: #FFFFFF;
+}
+
+.RegisterButton{
+    position: absolute;
+    height: 56px;
+    width: 328px;
+    left: 200px;
+    right: 0px;
+    top: 10px;
+
+    /* Yellow */
+
+    background: #F2C94C;
+    /* Drop Shadow 1 */
+    border: None;
+    color: white;
+
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;    
+}
+
+.colorchange{
+    color:white;
+    text-align: center;
+    text-decoration: None;
+}

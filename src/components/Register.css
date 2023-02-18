@@ -1,0 +1,58 @@
+.Registerpage{
+    /* Login */
+
+    position: absolute;
+    width: 39px;
+    height: 14px;
+    top: 75px;
+    left: 750px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 14px;
+    text-align: center;
+
+
+    /* Dark Grey */
+
+    color: #333333;
+}
+
+.Registerin{
+    position: absolute;
+    height: 56px;
+    width: 328px;
+    left: 655px;
+    right: 0px;
+    top: 370px;
+
+    /* Blue 1 */
+
+    background: #F2C94C;
+    /* Drop Shadow 1 */
+    border: None;
+    color: white;
+
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;
+}
+
+.changing{
+    position: absolute;
+    width: 373px;
+    height: 14px;
+    left: 635px;
+    top: 442px;
+
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 14px;
+
+    /* Dark Grey */
+
+    color: #333333;
+}
